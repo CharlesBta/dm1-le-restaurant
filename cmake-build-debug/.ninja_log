@@ -1,5 +1,19 @@
 # ninja log v5
 5	88	7157938975571704	CMakeFiles/dm1_le_restaurant.dir/fonction.c.obj	6c03f1a4a2463cf1
 1	98	7157938975685048	CMakeFiles/dm1_le_restaurant.dir/main.c.obj	29d779abc9856ca6
-1	442	7157939118256994	build.ninja	7099eb2e2334800
+1	442	7158022592757771	build.ninja	7099eb2e2334800
 1	102	7157939120895281	dm1_le_restaurant.exe	e2a91124a723244c
+1	72	7158030925912469	CMakeFiles/dm1_le_restaurant.dir/main.c.obj	29d779abc9856ca6
+72	427	7158030929416845	dm1_le_restaurant.exe	e2a91124a723244c
+2	96	7158036255517458	CMakeFiles/dm1_le_restaurant.dir/main.c.obj	29d779abc9856ca6
+96	384	7158036258362373	dm1_le_restaurant.exe	e2a91124a723244c
+2	69	7158037009943506	CMakeFiles/dm1_le_restaurant.dir/main.c.obj	29d779abc9856ca6
+70	146	7158037010670077	dm1_le_restaurant.exe	e2a91124a723244c
+2	66	7158037483759388	CMakeFiles/dm1_le_restaurant.dir/main.c.obj	29d779abc9856ca6
+66	146	7158037484527645	dm1_le_restaurant.exe	e2a91124a723244c
+2	157	7158039576665477	CMakeFiles/dm1_le_restaurant.dir/main.c.obj	29d779abc9856ca6
+157	432	7158039579344241	dm1_le_restaurant.exe	e2a91124a723244c
+3	173	7158043979958123	CMakeFiles/dm1_le_restaurant.dir/main.c.obj	29d779abc9856ca6
+174	282	7158043980976194	dm1_le_restaurant.exe	e2a91124a723244c
+2	66	7158045025738484	CMakeFiles/dm1_le_restaurant.dir/main.c.obj	29d779abc9856ca6
+66	140	7158045026420711	dm1_le_restaurant.exe	e2a91124a723244c
