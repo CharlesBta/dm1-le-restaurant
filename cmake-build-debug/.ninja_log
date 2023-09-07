@@ -1,0 +1,5 @@
+# ninja log v5
+5	88	7157938975571704	CMakeFiles/dm1_le_restaurant.dir/fonction.c.obj	6c03f1a4a2463cf1
+1	98	7157938975685048	CMakeFiles/dm1_le_restaurant.dir/main.c.obj	29d779abc9856ca6
+1	442	7157939118256994	build.ninja	7099eb2e2334800
+1	102	7157939120895281	dm1_le_restaurant.exe	e2a91124a723244c

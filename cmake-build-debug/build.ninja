@@ -55,12 +55,6 @@ build CMakeFiles/dm1_le_restaurant.dir/main.c.obj: C_COMPILER__dm1_le_restaurant
   OBJECT_DIR = CMakeFiles\dm1_le_restaurant.dir
   OBJECT_FILE_DIR = CMakeFiles\dm1_le_restaurant.dir
 
-build CMakeFiles/dm1_le_restaurant.dir/fonction.c.obj: C_COMPILER__dm1_le_restaurant_unscanned_Debug C$:/Users/charles-antoine.bat/Documents/GitHub/dm1-le-restaurant/fonction.c || cmake_object_order_depends_target_dm1_le_restaurant
-  DEP_FILE = CMakeFiles\dm1_le_restaurant.dir\fonction.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\dm1_le_restaurant.dir
-  OBJECT_FILE_DIR = CMakeFiles\dm1_le_restaurant.dir
-
 
 # =============================================================================
 # Link build statements for EXECUTABLE target dm1_le_restaurant
@@ -69,7 +63,7 @@ build CMakeFiles/dm1_le_restaurant.dir/fonction.c.obj: C_COMPILER__dm1_le_restau
 #############################################
 # Link the executable dm1_le_restaurant.exe
 
-build dm1_le_restaurant.exe: C_EXECUTABLE_LINKER__dm1_le_restaurant_Debug CMakeFiles/dm1_le_restaurant.dir/main.c.obj CMakeFiles/dm1_le_restaurant.dir/fonction.c.obj
+build dm1_le_restaurant.exe: C_EXECUTABLE_LINKER__dm1_le_restaurant_Debug CMakeFiles/dm1_le_restaurant.dir/main.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\dm1_le_restaurant.dir
