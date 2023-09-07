@@ -12,19 +12,22 @@ int main() {
     printf("Combien etes vous pour le restaurant? \n");
     scanf("%d",&nomClient);
     table = numTable(nomClient);
-    printf("%d\n",table);
 
-    printf("Quel boisson souhaitez vous? (s: soda, e: eau, l: limonade\n");
+    getchar();
+    printf("Quel boisson souhaitez vous? (s: soda, e: eau, l: limonade)\n");
     scanf("%c", &boisson);
     getchar();
-    printf("Quel plats ? (c: coucous, t: tomates, r: risotto\n");
+
+    printf("Quel plats ? (c: coucous, t: tomates, r: risotto)\n");
     scanf("%c", &plat);
     getchar();
-    printf("Quel dessert? (t: tiramisu, g: glace, m: macaron\n");
+
+    printf("Quel dessert? (t: tiramisu, g: glace, m: macaron)\n");
     scanf("%c", &dessert);
     getchar();
 
+
     prixTotal = sommePlat(boisson,plat,dessert,nomClient);
-    printf("%d",prixTotal);
+    printf("Vous devez pour %d personne(s) %d e",nomClient,prixTotal);
     return 0;
 }
